@@ -1,0 +1,13 @@
+{
+  "name": "dave-mills/trial_wp_theme",
+  "authors": [
+    {
+      "name": "Dave Mills",
+      "email": "d.e.mills@stats4sd.org"
+    }
+  ],
+  "type": "wordpress-theme",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
